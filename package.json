@@ -1,0 +1,23 @@
+{
+  "name": "dog-food-shopper",
+  "version": "1.0.0",
+  "description": "I'm tired of doing this manually.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "git+https://github.com/flapdragon/dog-food-shopper.git",
+  "keywords": [],
+  "author": "David Dean (https://github.com/flapdragon)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flapdragon/dog-food-shopper/issues"
+  },
+  "homepage": "https://github.com/flapdragon/dog-food-shopper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3"
+  }
+}
